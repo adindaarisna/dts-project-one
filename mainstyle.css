@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(10, 176, 182);
+    color: #ffffff;
+
+}
